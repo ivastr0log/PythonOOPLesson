@@ -7,9 +7,9 @@ Basics of OOP - creating classes, fiels, methods and calling them
 First OOP concept - encapsulation
 
 3. Inheritance && polymorphism (inheritance.py)
-Second and third OOP concept - inheritance && polymorphism
+Second and third OOP concepts - inheritance && polymorphism
 
-4. Operator Overloading (operator_overloading.py)
+4. Operators Overloading (operator_overloading.py)
 
 5. Multiple Inheritance (multiple_inheritance.py)
 
