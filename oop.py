@@ -10,4 +10,4 @@ class Base(): # Defining class
 obj = Base(1, 2) # Creating class Base object
 obj.x = 4 # Setting property of the object
 print(obj.x) # Getting property of the object
-obj.printInfo() # Calling method
+obj.printInfo() # Calling method of the object

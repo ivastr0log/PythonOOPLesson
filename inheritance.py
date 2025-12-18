@@ -9,7 +9,7 @@ class Base():
     def info(self) -> None: # Polymorphism
         print(f"X: {self._x}")
 
-class Derived(Base):
+class Derived(Base): # Adding Parent`s classes
     def __init__(self, x, y) -> None:
         super().__init__(x) # Init Parent`s class 
         # OR

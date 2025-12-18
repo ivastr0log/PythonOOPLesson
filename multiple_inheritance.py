@@ -1,3 +1,4 @@
+# Diamond problem
 class A():
     def __init__(self) -> None:
         print("init A")

@@ -3,11 +3,11 @@ class Vector():
         self.x, self.y = x, y
 
     def __add__(self, otherVector): # Overloading a = a + b
-        return Vector(self.x + otherVector.x, self.y + otherVector.y)
+        return Vector(self.x + otherVector.x, self.y + otherVector.y) # returns Class object!
 
     def __iadd__(self, otherVector): # Overloading a += b
         self.x += otherVector.x
-        self.y += otherVector.y
+        self.y += otherVector.y 
         return self
 
     def __str__(self):
